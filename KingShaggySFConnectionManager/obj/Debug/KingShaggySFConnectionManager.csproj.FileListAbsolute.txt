@@ -1,0 +1,13 @@
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\bin\Debug\KingShaggySFConnectionManager.dll
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\bin\Debug\KingShaggySFConnectionManager.pdb
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\bin\Debug\Microsoft.SqlServer.Dts.Design.dll
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\bin\Debug\Microsoft.SQLServer.PipelineHost.dll
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\obj\Debug\KingShaggySFConnectionManager.KingShaggySFConnectionManagerUIForm.resources
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\obj\Debug\KingShaggySFConnectionManager.Resource1.resources
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\obj\Debug\KingShaggySFConnectionManager.csproj.GenerateResource.cache
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\obj\Debug\KingShaggySFConnectionManager.csproj.CoreCompileInputs.cache
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\obj\Debug\KingShaggySFConnectionManager.csproj.CopyComplete
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\obj\Debug\KingShaggySFConnectionManager.dll
+C:\Users\eerhabor\source\repos\CustomSSIS\KingShaggySFConnectionManager\obj\Debug\KingShaggySFConnectionManager.pdb
