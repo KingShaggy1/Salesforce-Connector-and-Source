@@ -1,5 +1,5 @@
 # Salesforce-Connector-and-Source for SSIS
-SSIS custom connection manager and source
+## SSIS custom connection manager and source
 
 This repository hosts a custom solution for integrating Salesforce with SQL Server Integration Services (SSIS), featuring a specialized near bare bones connection manager and source component.
 
@@ -15,7 +15,7 @@ Add "KS Salesforce Connection" connection manager from the Connection Managers t
 
 ![image](https://github.com/user-attachments/assets/8a974e11-560b-46f0-9ee0-f65392cc6317)
 
-Enter your salesforce credentials and test connection. Upon Connection success, click ok.
+Enter your salesforce credentials and test connection. Upon Connection success, click ok. Url should be in form such as https://MyDomainName.my.salesforce.com.
 
 ![image](https://github.com/user-attachments/assets/7e889a21-6d51-44eb-a994-d4d2e5667c78)
 
@@ -39,9 +39,12 @@ To integrate expressions into your query, follow these steps:
 7. Switch to the Data Flow tab, locate the Salesforce source component, select your connection, and set the Access Mode to "Query."
 8. Your parameterized query should be visible in the textbox.
 
-![image](https://github.com/user-attachments/assets/221ab542-c947-4761-8407-c2086bfe4b82)
+![image](https://github.com/user-attachments/assets/3372b0c0-58eb-4326-a80e-fbcfaeea49f9)
+
+![image](https://github.com/user-attachments/assets/dded7f2e-71aa-43c8-bca5-227f1b0a93d8)
 
 
+# Happy coding from King Shaggy.
 
 ![image](https://github.com/KingShaggy1/Salesforce-Connector-and-Source/assets/47197934/ab10514e-4846-41d9-a1b7-6b33f11790d4)
 
