@@ -24,7 +24,7 @@ Table option allows you to view the objects in salesforce while Query gives you 
 
 ![image](https://github.com/user-attachments/assets/8dbff33e-a6f2-49b3-92b2-056d7969a610)
 
-![image](https://github.com/user-attachments/assets/61ea8958-f4f3-4a11-a676-9611758ca388)
+<img width="1176" height="466" alt="popup1" src="https://github.com/user-attachments/assets/b34d93e1-6bf8-49a6-b018-2d8bc5e0ce49" />
 
 ### Using Expressions in Your Query
 
@@ -41,7 +41,7 @@ To integrate expressions into your query, follow these steps:
 
 ![image](https://github.com/user-attachments/assets/3372b0c0-58eb-4326-a80e-fbcfaeea49f9)
 
-![image](https://github.com/user-attachments/assets/dded7f2e-71aa-43c8-bca5-227f1b0a93d8)
+<img width="1007" height="457" alt="popup2" src="https://github.com/user-attachments/assets/7e95198c-4277-4579-bb29-f3c3a9b0a418" />
 
 
 # Happy coding from King Shaggy.
